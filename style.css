@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+background: rgb(250, 0, 217);
+
+}
+.heading{
+width: 80%;
+font-size: 22px;
+
+}
+
+#camera{
+    border: 2px dashed rgb(212, 10, 10);
+    width: 350px;
+    height: 300px;
+}
+
+ .name_of_object, #result_object_name , #result_object_accuracy {
+    color: darkred;
+
+}
